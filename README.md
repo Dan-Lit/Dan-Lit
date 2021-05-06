@@ -1,16 +1,19 @@
-### Hi there 👋
+## I'm Daniel, junior back-end developer 👋
+<br/>
+📖 I'm a self-learner, and currently taking an official certification in software.</br>
+⌨️ Interested in backend technologies. <br/>
+💻 Available for work.
 
-<!--
-**Dan-Lit/Dan-Lit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+[<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
+[<img alt="MySQL" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
 
-Here are some ideas to get you started:
+### Currently studying
+Spring</br>
+Hibernate</br>
+Struts</br>
+Python/Django</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tech stack
+Git, Github, MySQL, Oracle Database, Linux
