@@ -1,7 +1,7 @@
 ## I'm Daniel, junior back-end developer 👋
 <br/>
 📖 I'm a self-learner, and currently taking an official certification in software.</br>
-⌨️ Interested in backend technologies. <br/>
+⌨️ Interested in back-end technologies. <br/>
 💻 Available for work.
 
 ### Languages
