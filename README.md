@@ -6,13 +6,12 @@
 
 ### Languages
 [<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
-[<img alt="SQL" width="5%" src="https://www.flaticon.com/svg/vstatic/svg/76/76148.svg?token=exp=1620415001~hmac=84d03c01712ac8eb4d81599b364f4d1d" />](https://www.google.com/search?&q=SQL)
+[<img alt="Python" width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />](https://www.google.com/search?&q=Python)
+[<img alt="SQL" width="5%" src="https://cdn-icons.flaticon.com/png/512/4299/premium/4299956.png?token=exp=1638195210~hmac=84d10dc0b8c814841a21b156eac6dab0" />](https://www.google.com/search?&q=SQL)
 
 ### Currently studying
-Spring</br>
-Hibernate</br>
-Struts</br>
+Metasploit
 
 
 ### Tech stack
-Git, Github, MySQL, Oracle Database, Linux
+Git, Github, MySQL, Oracle Database, Android Studio, Linux.
