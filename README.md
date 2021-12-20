@@ -10,7 +10,7 @@
 [<img alt="SQL" width="5%" src="https://cdn-icons.flaticon.com/png/512/4299/premium/4299956.png?token=exp=1638195210~hmac=84d10dc0b8c814841a21b156eac6dab0" />](https://www.google.com/search?&q=SQL)
 
 ### Currently studying
-Metasploit
+C#
 
 
 ### Tech stack
