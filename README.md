@@ -1,17 +1,13 @@
-## I'm Daniel, junior back-end developer 👋
+## I'm Daniel, back-end developer 👋
 <br/>
 📖 I'm a self-learner, and currently taking an official certification in software.</br>
 ⌨️ Interested in back-end technologies. <br/>
-💻 Available for work.
 
 ### Languages
+[<img alt="C#" width="5%" src="https://www.ucode.ro/wp-content/uploads/2018/09/c-logo.jpg" />](https://www.google.com/search?&q=c#)
 [<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
 [<img alt="Python" width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />](https://www.google.com/search?&q=Python)
-[<img alt="SQL" width="5%" src="https://cdn-icons.flaticon.com/png/512/4299/premium/4299956.png?token=exp=1638195210~hmac=84d10dc0b8c814841a21b156eac6dab0" />](https://www.google.com/search?&q=SQL)
-
-### Currently studying
-C#
-
+[<img alt="SQL" width="5%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F542135.jpg&f=1&nofb=1" />](https://www.google.com/search?&q=SQL)
 
 ### Tech stack
-Git, Github, MySQL, Oracle Database, Android Studio, Linux.
+Git, Github, MySQL, SQLServer, Oracle Database, Android Studio, Linux.
